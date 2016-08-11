@@ -1,3 +1,3 @@
 module Main where
 
-main = putStrLn "    ====> Haskell: Howdy, Windows!"
+main = putStrLn "    ====> Haskell: Howdy!"
